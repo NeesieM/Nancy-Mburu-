@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+  }
+h1 {
+    top:10px;    
+    Left:20px;  
+}
+.header {
+    float: right;
+    position:absolute;
+    top:10px;    
+    right:20px;    
+  }
+  h{
+    color: black;
+    margin-left: 20px;
+  }
